@@ -50,6 +50,7 @@ HR Department, Department Heads, and Executive Leadership.
 ---
 
 ## 📊 Dashboard Overview
+> ![Dashboard Overview](HR-dashboard.png)
 
 **Tool Used:** Microsoft Excel
 
@@ -59,10 +60,6 @@ HR Department, Department Heads, and Executive Leadership.
 - **Average Salary by Education Level:** Shows how salary varies with education
 - **Tenure by Age Group:** Reveals retention patterns across age brackets
 - **Salary Range with Outliers:** Flags potential anomalies for further review
-
-> 📌 *A screenshot of the dashboard.
-> ![Dashboard Overview](HR-dashboard.png)
----
 
 ## 💡 Strategic Recommendations
 
