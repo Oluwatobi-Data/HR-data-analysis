@@ -61,6 +61,7 @@ HR Department, Department Heads, and Executive Leadership.
 - **Salary Range with Outliers:** Flags potential anomalies for further review
 
 > 📌 *A screenshot of the dashboard is available in the repository.
+> ![Dashboard Overview](HR-dashboard.png)
 ---
 
 ## 💡 Strategic Recommendations
