@@ -60,7 +60,7 @@ HR Department, Department Heads, and Executive Leadership.
 - **Tenure by Age Group:** Reveals retention patterns across age brackets
 - **Salary Range with Outliers:** Flags potential anomalies for further review
 
-> 📌 *A screenshot of the dashboard is available in the repository.
+> 📌 *A screenshot of the dashboard.
 > ![Dashboard Overview](HR-dashboard.png)
 ---
 
