@@ -85,8 +85,6 @@ HR Department, Department Heads, and Executive Leadership.
 ## 📁 Files
 
 - `HR_Analytics_Report_2017_2023.pdf` – Executive summary and visualizations
-- `HR_Dashboard_Excel.xlsx` – Interactive dashboard with data visuals
-
 ---
 
 ## 🙋‍♂️ About Me
